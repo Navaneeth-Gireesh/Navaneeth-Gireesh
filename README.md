@@ -22,13 +22,26 @@
 ## 📊 GitHub Stats
 
 ![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navaneeth-Gireesh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth-Gireesh&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth-Gireesh&theme=radical)
+
+## 🎧 Currently Playing on Spotify
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31cuh3onvf5zlbe6mlvyz7ei662u)
+
+## 💬 Random Quotes
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🏆 Achievements Badges
+[![HackerRank](https://img.shields.io/badge/-HackerRank-333?style=flat&logo=hackerrank)](https://www.hackerrank.com/navaneeth2002hi1)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth2002)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/tweet_nav_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:navaneeth2002hitech@gmail.com)
-
 
 <!---
 Navaneeth-Gireesh/Navaneeth-Gireesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
