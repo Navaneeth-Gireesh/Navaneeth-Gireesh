@@ -29,9 +29,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/tweet_nav_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:navaneeth2002hitech@gmail.com)
 
-## 📽️ My LinkedIn Profile
-
-![LinkedIn GIF](https://your-gif-link-here.gif)
 
 <!---
 Navaneeth-Gireesh/Navaneeth-Gireesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
