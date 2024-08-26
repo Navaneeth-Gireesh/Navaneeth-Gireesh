@@ -29,6 +29,10 @@
 ![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navaneeth-Gireesh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth-Gireesh&layout=compact&theme=radical)
 
+## 📌 Latest Python Project
+
+Check out my latest Python project on [PythonAnywhere](https://navaneethgireesh.pythonanywhere.com/).
+
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth-Gireesh&theme=radical)
 
@@ -44,8 +48,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth2002)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/tweet_nav_)
-
-<!---
-Navaneeth-Gireesh/Navaneeth-Gireesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
