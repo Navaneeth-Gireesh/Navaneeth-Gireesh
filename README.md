@@ -31,14 +31,14 @@
 
 ## 📌 Pinned Projects
 
+- [**Online Learning Platform**](https://github.com/Navaneeth-Gireesh/Online_Learning_Platform)     
+  EduSphere is a robust online learning platform that provides a secure and user-friendly experience for both administrators and students.
+
 - [**Drowsiness Detection System**](https://github.com/Navaneeth-Gireesh/Drowsiness_Detection_System)  
   Detects when a driver is drowsy and alerts the driver and passengers in the vehicle.
 
-- [**Password Generator**](https://github.com/Navaneeth-Gireesh/Password_Generator)  
-  A Python script for generating secure passwords based on user-defined criteria.
-
-- [**Rock Paper Scissors Game**](https://github.com/Navaneeth-Gireesh/Rock_Paper_Scissors_Game)  
-  A simple Rock-Paper-Scissors game where users can play against the computer.
+- [**Movie Database**](https://github.com/Navaneeth-Gireesh/Movie_Database)  
+  'Movie Nest' is a Django-based web application that enables users to view, search, and paginate a collection of movies, featuring a REST API for movie data interaction.
 
 ---
 
