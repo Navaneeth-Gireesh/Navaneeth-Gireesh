@@ -118,7 +118,7 @@ Check out my latest Python project on [PythonAnywhere](https://navaneethgireesh.
 
 ## 🏆 HackerRank Achievements
 
-![Python](https://img.shields.io/badge/Python-4%20stars-yellow?style=flat&logo=hackerrank)
+![Python](https://img.shields.io/badge/Python-5%20stars-yellow?style=flat&logo=hackerrank)
 
 ---
 
