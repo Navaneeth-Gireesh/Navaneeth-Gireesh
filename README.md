@@ -91,12 +91,6 @@ Check out my latest Python project on [PythonAnywhere](https://navaneethgireesh.
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth-Gireesh&theme=radical)
-
----
-
 ## 💬 Random Quotes
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
