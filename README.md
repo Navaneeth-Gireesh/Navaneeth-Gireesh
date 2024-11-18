@@ -73,8 +73,8 @@
 - [**Drowsiness Detection System**](https://github.com/Navaneeth-Gireesh/Drowsiness_Detection_System)  
   Detects when a driver is drowsy and alerts the driver and passengers in the vehicle.
 
-- [**Movie Database**](https://github.com/Navaneeth-Gireesh/Movie_Database)  
-  'Movie Nest' is a Django-based web application that enables users to view, search, and paginate a collection of movies, featuring a REST API for movie data interaction.
+- [**Interview Scheduler**](https://github.com/Navaneeth-Gireesh/Interview_Scheduler_RESTAPI)
+  A Django REST API application for scheduling interviews. This system allows logged-in users to book interview slots, while HR managers can view the available slots for a specific candidate or interviewer.
 
 ---
 
